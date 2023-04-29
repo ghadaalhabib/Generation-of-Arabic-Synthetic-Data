@@ -1,6 +1,10 @@
 # Generation-of-Arabic-Synthetic-Data
 This repository offers a guide to generate Arabic synthetic data using different Arabic fonts to perform data augmentation to improve the performance of machine learning models or to train an OCR software.
 
+![0](https://user-images.githubusercontent.com/67872328/235325407-76cf473e-322d-425c-a1b3-fd33902cf7f6.jpg)
+![34](https://user-images.githubusercontent.com/67872328/235325416-ce57b20d-8713-4c45-aa96-62c31f672499.jpg)
+
+
 The following GitHub Repository was used to perform data synthesis: Text Recognition Data Generator
 https://github.com/Belval/TextRecognitionDataGenerator
 
