@@ -10,6 +10,10 @@ https://textrecognitiondatagenerator.readthedocs.io/en/latest/
 Notes: 
 1- The added file should assist you in generating images using Arabic. It is not fully supported by the package for some fonts.
 
+Add the fonts to be used in the trdg folder (use only .ttf because TextRecognitionDataGenerator only works with this type of font)
+You can download the fonts online or use the fonts available in the font book initially installed  
+Add the font names without the .ttf extension line by line in a text file
+
 2- Choose the font you wish to generate the images:
     1- Go to the TextRecognitionDataGenerator folder -> trdg -> fonts
     2- Add the required font (.tff format)
