@@ -19,7 +19,8 @@ Add the font names without the .ttf extension line by line in a text file
 3- Add the text you need to generate images of in a text file in the "trdg" folder, not the "dict" folder to generate the images in the same order as the text file. Otherwise, not specifying the text file and only using the ar file in the "dict" folder will generate images in a random order.
 
 4- Move to the trdg folder and run the run.py script. 
+
 Check the description of the arugments available in the documentation. I personally ran the following comand to generate images in Arabic: python3 run.py -l ar -c 48 -na 2 --input_file ar2.txt
 (Make sure you delete the hidden files in the font folder there before you run anything)
 
-5- The second file will assist you if you need to add the images in an excel sheet in the same order as the text file.
+5- TextRecognitionDataGenerator file will assist you if you need to add the images in an excel sheet in the same order as the text file.
