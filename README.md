@@ -8,7 +8,7 @@ Additional documentation:
 https://textrecognitiondatagenerator.readthedocs.io/en/latest/
 
 Notes: 
-1- TextRecognitionDataGenerator2.py should assist you in generating images using Arabic. It is not fully supported by the package for some fonts.
+1- TextRecognitionDataGenerator2.py should assist you in generating images using Arabic. Arabic is not fully supported by the package for some fonts.
 
 Add the fonts to be used in the trdg folder (use only .ttf because TextRecognitionDataGenerator only works with this type of font)
 You can download the fonts online or use the fonts available in the font book initially installed  
