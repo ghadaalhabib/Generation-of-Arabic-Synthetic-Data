@@ -3,6 +3,8 @@ This repository offers a guide to generate Arabic synthetic data using different
 
 ![0](https://user-images.githubusercontent.com/67872328/235325407-76cf473e-322d-425c-a1b3-fd33902cf7f6.jpg)
 ![34](https://user-images.githubusercontent.com/67872328/235325416-ce57b20d-8713-4c45-aa96-62c31f672499.jpg)
+![36](https://user-images.githubusercontent.com/67872328/235325424-dba14ce1-57a1-4e80-abd0-f2c7c5e7bf92.jpg)
+![37](https://user-images.githubusercontent.com/67872328/235325426-0e92bb49-6b0a-40dd-9431-a0f657740067.jpg)
 
 
 The following GitHub Repository was used to perform data synthesis: Text Recognition Data Generator
